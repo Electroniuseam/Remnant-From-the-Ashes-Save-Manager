@@ -35,6 +35,6 @@ configs/
 └── custom.cfg
 ```
 
-`Remnant-From-the-Ashes-Save-Manager` · Updated: 2026-10-07
+`Remnant-From-the-Ashes-Save-Manager` · Updated: 2026-10-24
 
 **Tags:** `remnant-from-the-ashes` `save-manager` `action-rpg` `soulslike`
